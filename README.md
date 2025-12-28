@@ -5,26 +5,26 @@
 This repository documents my 100 Days of AWS Cloud Challenge, a hands-on journey focused on building real-world cloud infrastructure skills using the AWS Management Console.
 
 All tasks are performed directly in the AWS Console to demonstrate a strong understanding of:
-  -AWS services
-  -Configuration workflows
-  -Cloud architecture concepts
-  -Security and networking fundamentals
+  - AWS services
+  - Configuration workflows
+  - Cloud architecture concepts
+  - Security and networking fundamentals
 
 This repository serves as a public cloud portfolio for recruiters and hiring managers.
 
 🎯 Objectives
-  -Build strong AWS fundamentals through practical implementation
-  -Gain real experience with compute, networking, storage, IAM, and monitoring
-  -Understand how AWS services are configured in real environments
-  -Maintain clear documentation and visual proof of work
+  - Build strong AWS fundamentals through practical implementation
+  - Gain real experience with compute, networking, storage, IAM, and monitoring
+  - Understand how AWS services are configured in real environments
+  - Maintain clear documentation and visual proof of work
 
 
   📸 Proof of Work
 
 Each task includes:
-  -AWS Console configuration steps
-  -Screenshots validating successful implementation
-  -Clear outcome and learning summary
+  - AWS Console configuration steps
+  - Screenshots validating successful implementation
+  - Clear outcome and learning summary
 
 This repository reflects actual AWS console experience, not simulations or theory.
 
@@ -82,6 +82,22 @@ This repository reflects actual AWS console experience, not simulations or theor
 | Day 48 | Infrastructure Deployment with CloudFormation | ⏳ |
 | Day 49 | Centralized Audit Logging | ⏳ |
 | Day 50 | Expanding EC2 Instance Storage | ⏳ |
+
+📸 Proof of Work
+
+Each task includes:
+
+- AWS Console configuration steps
+- Screenshots validating successful implementation
+- Clear outcome and learning summary
+
+This repository reflects actual AWS console experience, not simulations or theory.
+
+🔮 Roadmap
+
+- Complete AWS tasks through Day 50
+- Expand into multi-cloud (Azure) in future phases
+- Add architecture diagrams and best-practice notes
 
 
 🤝 Contact
