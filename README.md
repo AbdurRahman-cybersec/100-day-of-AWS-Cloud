@@ -1,6 +1,6 @@
-**☁️ 100 Days of AWS Cloud Challenge (Console-Based)
-**
-📌 Overview
+## ☁️ 100 Days of AWS Cloud Challenge (Console-Based)
+
+## 📌 Overview
 
 This repository documents my 100 Days of AWS Cloud Challenge, a hands-on journey focused on building real-world cloud infrastructure skills using the AWS Management Console.
 
