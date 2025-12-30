@@ -1,3 +1,6 @@
+
+<img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue?logo=github"> <img alt="Static Badge" src="https://img.shields.io/badge/In_Progress-AWS Cloud-orange">
+
 ## ☁️ 100 Days of AWS Cloud Challenge (Console-Based)
 
 ## 📌 Overview
