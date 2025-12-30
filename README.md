@@ -33,8 +33,8 @@ This repository reflects actual AWS console experience, not simulations or theor
 | Day | Task | Status |
 |-----|------|--------|
 | Day 1 | Create Key Pair | ✅ Completed |
-| Day 2 | Create Security Group | 🔄 In Progress |
-| Day 3 | Create Subnet | ⏳ Planned |
+| Day 2 | Create Security Group | ✅ Completed |
+| Day 3 | Create Subnet | 🔄 In Progress |
 | Day 4 | Allocate Elastic IP | ⏳ |
 | Day 5 | Create GP3 Volume | ⏳ |
 | Day 6 | Launch EC2 Instance | ⏳ |
